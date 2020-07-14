@@ -1,0 +1,43 @@
+.container{
+    padding-top: 50px;
+    padding-bottom:50px;
+}
+.cat{
+    text-align: center;
+}
+.smart{
+    font-size:x-large;
+    color: black;
+}
+.small{
+    font-size:small;
+    color: orange;
+}
+button{
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+.card{
+    border:none;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+.shadow{
+    box-shadow:5px 5px 10px lightgrey;
+}
+.box{
+    height: 180px;
+    width: 300px;
+    box-shadow: 4px 4px 8px grey;
+}
+h4{
+    margin-left: 60px;
+}
+.top_background{
+    background-color:whitesmoke;
+}
